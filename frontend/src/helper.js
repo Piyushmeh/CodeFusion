@@ -10,4 +10,4 @@ export const removeClass = (el,className) => {
 
 export const api_base_url = window.location.hostname === 'localhost' 
   ? "http://localhost:3000"
-  : "https://your-backend-name.onrender.com";
+  : "https://codefusion-wxb3.onrender.com";
